@@ -1,1 +1,1 @@
-this is utils functions
+this is utils functions for project
